@@ -133,6 +133,17 @@
         "hungry"
       ],
       "id": "13"
+    },
+    {
+      "name": "wildman",
+      "species": "whipple",
+      "diet": "folivore",
+      "personalityTraits": [
+        "zany",
+        "anxious",
+        "loving"
+      ],
+      "id": "14"
     }
   ]
 }
